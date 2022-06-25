@@ -11,7 +11,6 @@ In spare time, enjoying sports, music and nature, pursuing dreams with a passion
 Learning is my most important hobby.
 
 I especially like fishing, chess and golf, and I also participate in teamwork like soccer and take the time to try new things.
-I especially like fishing, chess and golf, and I also participate in teamwork like soccer and take the time to try new things.
 As a Music, I like the symphonies of Mozart and Beethoven, I also like popular songs.
 
 Everyone will love diamond, because they are precious. To be loved by client with precious skills and credit, this's my passion and mission.
