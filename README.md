@@ -1,24 +1,17 @@
-### Hi there 👋, I'm Ricardo
+<h1 align="center">Hello Everyone! 👋, I'm Lucas Lee!</h1>
+<p align="center">Learn fast, Dig deep, See farther.</p>
+<h3 align="center">A passionate fullstack engineer</h3>
 
-[![GitHub motirck](https://img.shields.io/github/followers/motirck?label=follow&style=social)](https://github.com/motirck)
-<sub>ㅤ</sub>
-![](https://komarev.com/ghpvc/?username=motirck&style=flat-square&color=13b982&label=Profile%20views)
+I'm a master degree of Computer Science, and I currently work as a fullstack developer but I'm dedicating myself to specializing in frontend. So here you can see some personal projects, know what I'm studying and even get some code tips if you're starting your journey.
 
-- 🔭 I’m currently working on [CWI Software](https://cwi.com.br/)
-- 🌱 I’m currently learning Tests in .NET with Xunit
-- 💬 Ask me about: 
-  * English | JavaScript | TypeScript | HTML | CSS | SQL | Angular | .NET | Scrum | Node.js 
-  * And what you want, feel free...
+Currently I dedicate myself to Node.js and Deno (with Typescript and Javascript), React.js, React Native. I study every day and I am focused 100% on the goal of evolving my development career.
 
-📫 Reach me out 👇
+In spare time, enjoying music and nature, pursuing dreams with a passion for the future.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardoalvespaula/)](https://www.linkedin.com/in/ricardoalvespaula/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ricardoalvespaula/)](https://www.instagram.com/ricardoalvespaula/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ricardoalvesp01)](https://twitter.com/ricardoalvesp01)
-<!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)](https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)-->
+Everyone will love diamond, because they are precious. To be loved by client with precious skills and credit, this's my passion and mission.
 
-<!-- Vertical Spacer -->
-<p></p>
+Thanks for visiting my profile and feel free to contact me if you wish!
+
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motirck&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
@@ -27,9 +20,6 @@
 
 <!-- Vertical Spacer -->
 <p></p>
-
-<!-- Trophies -->
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motirck&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
 
 ### Some programming languages I'd like to talk about...
 
@@ -49,6 +39,3 @@
 <code><img alt="Sass" title="Sass" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
 <code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img alt="npm" height="44" src="https://user-images.githubusercontent.com/57419630/124049280-7eef7c00-d9ee-11eb-822f-1b7ac86f5271.png"></code>
-
-### Repository with a project using .NET, Entity Framework, DDD, CQRS, Event Sourcing, migrations, etc. Check it out!
-[![](https://github-readme-stats.vercel.app/api/pin/?username=motirck&repo=modelagem-dominios-ricos&bg_color=ffffff00&text_color=666666)](https://github.com/motirck/modelagem-dominios-ricos)
