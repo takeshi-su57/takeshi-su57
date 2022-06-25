@@ -6,7 +6,13 @@ I'm a master degree of Computer Science, and I currently work as a fullstack dev
 
 Currently I dedicate myself to Node.js and Deno (with Typescript and Javascript), React.js, React Native. I study every day and I am focused 100% on the goal of evolving my development career.
 
-In spare time, enjoying music and nature, pursuing dreams with a passion for the future.
+In spare time, enjoying sports, music and nature, pursuing dreams with a passion for the future.
+
+Learning is my most important hobby.
+
+I especially like fishing, chess and golf, and I also participate in teamwork like soccer and take the time to try new things.
+I especially like fishing, chess and golf, and I also participate in teamwork like soccer and take the time to try new things.
+As a Music, I like the symphonies of Mozart and Beethoven, I also like popular songs.
 
 Everyone will love diamond, because they are precious. To be loved by client with precious skills and credit, this's my passion and mission.
 
