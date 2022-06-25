@@ -22,7 +22,7 @@ Thanks for visiting my profile and feel free to contact me if you wish!
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hard-working-diamondcreator&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hard-working-diamondcreator&theme=monokai" alt="motirck" height="180em"/>
 </div>
-![Lucas Lee's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=hard-working-diamondcreator&show_icons=true&count_private=true&theme=gotham)
+![hard-working-diamondcreator's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=hard-working-diamondcreator&show_icons=true&count_private=true&theme=gotham)
 <!-- Vertical Spacer -->
 <p></p>
 
