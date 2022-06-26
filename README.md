@@ -23,9 +23,14 @@ Thanks for visiting my profile and feel free to contact me if you wish!
 
 <details>
     <summary><b>⚡ Github Stats</b></summary>
-    <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hard-working-    diamondcreator&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="hard-working-diamondcreator" align = "center"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hard-working-    diamondcreator&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="hard-working-diamondcreator" align = "center"/></p>
+    <div align="center">
+        <a href="https://github.com/hard-working-diamondcreator">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hard-working-diamondcreator&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hard-working-diamondcreator&layout=compact&langs_count=7&theme=dark"/>
+    </div>
 </details>
+
+
 
 <details>
     <summary><b>🔥 Github Streaks</b></summary>
@@ -34,6 +39,10 @@ Thanks for visiting my profile and feel free to contact me if you wish!
 
 <details>
     <summary><b>⚡ Github Contribution Graph</b></summary>
-    <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hard-working-diamondcreator&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!--     <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hard-working-diamondcreator&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
 </details>
 
+## 
+<img src="https://activity-graph.herokuapp.com/graph?username=hard-working-diamondcreator&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
+
+##
