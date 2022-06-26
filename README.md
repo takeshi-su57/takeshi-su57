@@ -37,6 +37,7 @@ Thanks for visiting my profile and feel free to contact me if you wish!
     <summary><b>⚡ Github Contribution Graph</b></summary>
     ##
     <img src="https://activity-graph.herokuapp.com/graph?username=hard-working-diamondcreator&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
+  
     ##
 </details>
 
