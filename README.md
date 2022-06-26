@@ -26,39 +26,25 @@ Thanks for visiting my profile and feel free to contact me if you wish!
 <!-- Vertical Spacer -->
 <p></p>
 
-<summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corasphinx&theme=github_dark" alt="corasphinx" align = "center"/></p>
+<details>
+  <summary><b>⚡ Github Profile Details</b></summary>
+  <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hard-working-diamondcreator&theme=github_dark" alt="hard-working-diamondcreator" align = "center"/></p>
+</details>
 
+<details>
+    <summary><b>⚡ Github Stats</b></summary>
+    <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hard-working-    diamondcreator&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="hard-working-diamondcreator" align = "center"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hard-working-    diamondcreator&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="hard-working-diamondcreator" align = "center"/></p>
+</details>
 
-<summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=corasphinx&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="corasphinx" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=corasphinx&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="corasphinx" align = "center"/></p>
+<details>
+    <summary><b>🔥 Github Streaks</b></summary>
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hard-working-diamondcreator&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="hard-working-diamondcreator" /></p>
+</details>
 
+<details>
+    <summary><b>⚡ Github Contribution Graph</b></summary>
+    <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hard-working-diamondcreator&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=corasphinx&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="corasphinx" /></p>
+</details>
 
-
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=corasphinx&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
-
-### Some programming languages I'd like to talk about...
-
-<code><img alt="CSharp" title="C Sharp" height="48" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png"></code>
-<code><img alt="NodeJS" title="NodeJS" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img alt="C" title="C" height="52" src="https://user-images.githubusercontent.com/57419630/122760833-efb9ca00-d271-11eb-9348-539c0edeee34.png"></code>
-<code><img alt="C++" title="C++" height="48" src="https://user-images.githubusercontent.com/57419630/122760869-fcd6b900-d271-11eb-806d-74555059b5c7.png"></code>
-<code><img alt="Angular" title="Angular" height="50" src="https://user-images.githubusercontent.com/38081852/120406321-f0b9a480-c320-11eb-8bb8-6f22e95a8eff.png"></code>
-<code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122698166-26b1c080-d21d-11eb-86e2-ccadcc205b50.png"></code>
-<code><img alt="TypesCript" title="TS" height="48" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
-<code><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/57419630/124050480-050cc200-d9f1-11eb-9ad4-607de212ee0a.png"></code>
-<code><img alt="CSS" title="CSS" height="50" src="https://user-images.githubusercontent.com/57419630/124050477-0342fe80-d9f1-11eb-96b3-f935ebfc0924.png"></code>
-
-### Some tools I like...
-<code><img alt="VSCode" title="VSCode" height="48" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
-<code><img alt="Github" title="Github" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
-<code><img alt="Sass" title="Sass" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
-<code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img alt="npm" height="44" src="https://user-images.githubusercontent.com/57419630/124049280-7eef7c00-d9ee-11eb-822f-1b7ac86f5271.png"></code>
