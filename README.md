@@ -16,16 +16,6 @@ Everyone will love diamonds, because they are precious. To be loved by clients w
 
 Thanks for visiting my profile and feel free to contact me if you wish!
 
-
-
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hard-working-diamondcreator&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hard-working-diamondcreator&theme=monokai" alt="motirck" height="180em"/>
-</div>
-![hard-working-diamondcreator's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=hard-working-diamondcreator&show_icons=true&count_private=true&theme=gotham)
-<!-- Vertical Spacer -->
-<p></p>
-
 <details>
   <summary><b>⚡ Github Profile Details</b></summary>
   <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hard-working-diamondcreator&theme=github_dark" alt="hard-working-diamondcreator" align = "center"/></p>
@@ -45,6 +35,5 @@ Thanks for visiting my profile and feel free to contact me if you wish!
 <details>
     <summary><b>⚡ Github Contribution Graph</b></summary>
     <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hard-working-diamondcreator&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-
 </details>
 
