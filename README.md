@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone! 👋, I'm Diamond Creator!</h1>
+<h1 align="center">Hello Everyone! 👋, I'm Lucas Lee!</h1>
 <p align="center">Learn fast, Dig deep, See farther.</p>
 <h3 align="center">A passionate fullstack engineer</h3>
 
