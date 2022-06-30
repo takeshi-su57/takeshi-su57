@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone! 👋, I'm Lucas Lee!</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=A+Passionate+Fullstack+Engineer;Learn+Fast,+Dig+Deep,+See+Farther!" />
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=A+Passionate+Fullstack+Engineer!;Learn+Fast,+Dig+Deep,+See+Farther!" />
   </a>
 </h3>
 <!-- <h3 align="center">A passionate fullstack engineer</h3> -->
