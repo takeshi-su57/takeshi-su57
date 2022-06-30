@@ -1,5 +1,8 @@
 <h1 align="center">Hello Everyone! 👋, I'm Lucas Lee!</h1>
-<p align="center">Learn fast, Dig deep, See farther.</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Learn+Fast,+Dig+Deep,+See+Farther!" />
+  </a></p>
 <h3 align="center">A passionate fullstack engineer</h3>
 
 I'm a master's degree in Computer Science, and I currently work as a fullstack developer but I'm dedicating myself to specializing in frontend. So here you can see some personal projects, know what I'm studying and even get some code tips if you're starting your journey.
