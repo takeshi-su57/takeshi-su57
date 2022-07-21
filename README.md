@@ -6,7 +6,7 @@
 </h3>
 <!-- <h3 align="center">A passionate fullstack engineer</h3> -->
 
-I'm a master's degree in Computer Science, and I currently work as a fullstack developer but I'm dedicating myself to specializing in frontend. So here you can see some personal projects, know what I'm studying and even get some code tips if you're starting your journey.
+I'm a bachelor's degree in Computer Science, and I currently work as a fullstack developer but I'm dedicating myself to specializing in frontend. So here you can see some personal projects, know what I'm studying and even get some code tips if you're starting your journey.
 
 Currently I dedicate myself to Node.js and Deno (with Typescript and Javascript), React.js, React Native. I study every day and I am focused 100% on the goal of evolving my development career.
 
@@ -20,6 +20,7 @@ Everyone will love diamonds, because they are precious. To be loved by clients w
 
 Thanks for visiting my profile and feel free to contact me if you wish!
 
+<!--
 <details>
   <summary><b>⚡ Github Profile Details</b></summary>
   <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hard-working-diamondcreator&theme=github_dark" alt="hard-working-diamondcreator" align = "center"/></p>
@@ -43,5 +44,5 @@ Thanks for visiting my profile and feel free to contact me if you wish!
     <img src="https://activity-graph.herokuapp.com/graph?username=hard-working-diamondcreator&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
   </p>
 </details>
-
+-->
 
