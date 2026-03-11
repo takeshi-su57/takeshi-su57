@@ -31,37 +31,6 @@ I build **scalable software products** and focus on turning ideas into **real bu
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-- TypeScript
-- JavaScript
-- Go
-- Python
-
-### Frontend
-- React
-- Next.js
-- TailwindCSS
-
-### Backend
-- Node.js
-- NestJS
-- GraphQL
-- REST APIs
-
-### Infrastructure
-- Docker
-- Kubernetes
-- AWS
-- CI/CD
-
-### Databases
-- PostgreSQL
-- Redis
-
----
-
 ## 🚀 Product Mindset
 
 I believe great software is built at the intersection of:
@@ -99,22 +68,6 @@ My focus is not only writing code but **building products that solve real proble
 
 ---
 
-## 🚀 Long-Term Vision
-
-Build software products that:
-
-- scale globally
-- empower developers
-- create long-term impact
-
----
-
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=takeshi-su57)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📈 Activity Graph
 
 [![Takeshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takeshi-su57)](https://github.com/takeshi-su57)
@@ -124,20 +77,3 @@ Build software products that:
 ## 👀 Profile Visitors
 
 ![](https://komarev.com/ghpvc/?username=takeshi-su57&color=blue)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/takeshi-su57/takeshi-su57/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌐 Connect
-
-GitHub  
-https://github.com/takeshi-su57
-
----
-
-⭐️ From https://github.com/takeshi-su57
