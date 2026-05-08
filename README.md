@@ -31,31 +31,6 @@ I build **scalable software products** and focus on turning ideas into **real bu
 
 ---
 
-## 🚀 Product Mindset
-
-I believe great software is built at the intersection of:
-
-- **Engineering Excellence**
-- **Product Thinking**
-- **Fast Iteration**
-- **Scalable Architecture**
-
-My focus is not only writing code but **building products that solve real problems.**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=takeshi-su57&show_icons=true&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi-su57&layout=compact&hide_border=true" height="170">
-
-</p>
-
----
-
 ## 🧠 Engineering Interests
 
 - Distributed Systems
@@ -65,12 +40,6 @@ My focus is not only writing code but **building products that solve real proble
 - Platform Engineering
 - Developer Tooling
 - AI Applications
-
----
-
-## 📈 Activity Graph
-
-[![Takeshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takeshi-su57)](https://github.com/takeshi-su57)
 
 ---
 
