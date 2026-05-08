@@ -22,27 +22,6 @@ I build **scalable software products** and focus on turning ideas into **real bu
 
 ---
 
-## 🧩 Current Focus
-
-- Building **my own SaaS products**
-- Designing **scalable backend architectures**
-- Improving **developer productivity**
-- Exploring **AI powered applications**
-
----
-
-## 🧠 Engineering Interests
-
-- Distributed Systems
-- Microservices Architecture
-- Event Driven Systems
-- Cloud Infrastructure
-- Platform Engineering
-- Developer Tooling
-- AI Applications
-
----
-
 ## 👀 Profile Visitors
 
 ![](https://komarev.com/ghpvc/?username=takeshi-su57&color=blue)
