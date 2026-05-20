@@ -1,6 +1,4 @@
-# Hi 👋 I'm Takeshi Suzuki
-
-### Software Engineer • Product Builder • Entrepreneur
+# Software Engineer • Product Builder • Entrepreneur
 
 I build **scalable software products** and focus on turning ideas into **real businesses** through pragmatic engineering, clean architecture, and rapid iteration.
 
@@ -9,16 +7,6 @@ I build **scalable software products** and focus on turning ideas into **real bu
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Product+Focused+Engineer;Building+Software+Businesses;Startup+Driven+Developer;Learn+Fast+Build+Fast+Scale+Smart" />
 </p>
-
----
-
-## 🚀 About Me
-
-- 🧠 Product-focused **Software Engineer**
-- 🏗 Building **independent software products**
-- ⚙️ Interested in **scalable backend systems**
-- 🌍 Passionate about **cloud infrastructure & distributed systems**
-- 📈 Long-term mission: **build globally impactful software companies**
 
 ---
 
