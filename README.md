@@ -1,5 +1,4 @@
-# Software Engineer • Product Builder • Entrepreneur
-
+# Software Engineer • Product Builder
 I build **scalable software products** and focus on turning ideas into **real businesses** through pragmatic engineering, clean architecture, and rapid iteration.
 
 > Learn fast. Build relentlessly. Improve continuously.
